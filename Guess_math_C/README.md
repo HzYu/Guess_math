@@ -5,4 +5,4 @@
 開發環境為```JCreator Pro```
 
 # 執行結果
-![image](https://github.com/HzYu/Guess_math/blob/master/Guess_math_C/gif/C.gif)
+![image](https://github.com/HzYu/Guess_math/blob/master/Guess_math_C/gif/c.gif)
